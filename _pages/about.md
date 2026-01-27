@@ -19,9 +19,9 @@ redirect_from:
 </p>
 
 <p style="margin-bottom: 20px;">
-Transitioned from a medical background (Stomatology) to entrepreneurship in biotechnology, and subsequently expanded into interdisciplinary research spanning physics, chemistry, mathematics, and frontier computer science.
+Originally trained in stomatology and biomedical sciences, with experience in biotech entrepreneurship. My research interests are driven by problem-oriented exploration across mathematics, physics, and computation, currently focusing on large language models and their interdisciplinary applications.
 <br>
-<span style="color: #666; font-size: 0.95em;">从口腔医学背景转向生物技术领域创业，随后跨界至物理、化学、数学及计算机科学前沿的跨学科研究。</span>
+<span style="color: #666; font-size: 0.95em;">从口腔医学背景转向生物技术领域创业。研究兴趣源于对数学、物理及计算科学等领域的问题导向式探索，目前专注于大语言模型及其跨学科应用。</span>
 </p>
 
 </div>
@@ -79,17 +79,13 @@ Holding 4 invention patents in China.
 
 # 🎖 Honors & Certifications | 荣誉与认证
 
-<div markdown="1">
 *   **Lifetime Member | 终身会员**, Chinese Society of Biotechnology (中国生物工程学会)
 *   **NPDP** (Certified New Product Development Professional) | 国际产品经理认证, PMI
 *   **PMP** (Project Management Professional) | 国际项目经理认证, PMI
 *   **Executive Director | 常务理事**, Guangdong Private Dental Association (广东民营口腔协会)
 *   **Certified Lecturer & External Researcher | 认证讲师 & 外部研究员**, Cherry Studio
-</div>
 
 # 📖 Educations | 教育背景
 
-<div markdown="1">
 *   **China Medical University | 中国医科大学**
     *   Stomatology (口腔医学)
-</div>
