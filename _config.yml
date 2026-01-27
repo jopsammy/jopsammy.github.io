@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Sammy Zeng"
-description              : "Independent Researcher & Founder of Fuxu Technology. Research interests include Intelligence Dynamics and AI Safety."
+title                    : "Sammy Zeng | 曾庆明"
+description              : "Independent Researcher & Founder. Researching Intelligence Dynamics & AI Safety. | 独立研究者 & 创始人。关注智能动力学与AI安全。"
 repository               : "jopsammy/jopsammy.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Sammy Zeng"
+  name             : "Sammy Zeng | 曾庆明"
   avatar           : "images/profile.jpg"
-  bio              : "Independent Researcher | Founder of Fuxu Technology"
-  location         : "China"
+  bio              : "Independent Researcher<br>Founder of Fuxu Tech<br>独立研究者 | 创始人"
+  location         : "China | 中国"
   employer         : "Fuxu Technology"
   pubmed           : 
   googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
