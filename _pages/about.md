@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: ""
+excerpt: "Independent Researcher & Founder of Fuxu Technology"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,42 +17,59 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am **Sammy Zeng (曾庆明)**, an **Independent Researcher** and **Founder of Fuxu Technology Co., Ltd**. My research interests lie in the intersection of **Intelligence Dynamics** and **AI Safety**.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I graduated from **China Medical University** (Stomatology). I am a lifetime member of the **Chinese Society of Biotechnology** and hold several international certifications including **NPDP** (New Product Development Professional) and **PMP** (Project Management Professional). I also serve as the Executive Director of the **Guangdong Private Dental Association**.
 
+Currently, I am also a Certified Lecturer and External Researcher at **Cherry Studio**.
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+My recent work focuses on applying Landau Theory to intelligence dynamics and auditing scientific validity in AI benchmarks.
+
+**Contact:**
+*   Primary: [jop.sammy@163.com](mailto:jop.sammy@163.com)
+*   Backup: [qq504182720@gmail.com](mailto:qq504182720@gmail.com)
+*   Work: [cengqingming@fuxulife.cn](mailto:cengqingming@fuxulife.cn)
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Policy Entropy as Order Parameter: Landau Theory Migration for Intelligence Dynamics Framework](https://doi.org/10.5281/zenodo.16484805)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Sammy Zeng**
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Paper**](https://doi.org/10.5281/zenodo.16484805)
+- This paper proposes using Policy Entropy as an order parameter in the context of Intelligence Dynamics, drawing inspiration from Landau Theory.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[Humanity's Last Hallucination : A Forensic Audit of the Scientific Insolvency in GPQA and HLE](https://doi.org/10.5281/zenodo.18377266)
+
+**Sammy Zeng**
+
+[**Paper**](https://doi.org/10.5281/zenodo.18377266)
+- A forensic audit examining the scientific validity of GPQA and HLE benchmarks.
+</div>
+</div>
+
+# 🧩 Patents
+
+I hold 4 invention patents in China:
+*   **ZL201710770174.X**
+*   **ZL201710771247.X**
+*   **ZL201710771249.X**
+*   **ZL201710770237.X**
+
+# 🎖 Honors and Certifications
+- **Lifetime Member**, Chinese Society of Biotechnology (中国生物工程学会)
+- **NPDP** (Certified New Product Development Professional), PMI
+- **PMP** (Project Management Professional), PMI
+- **Executive Director**, Guangdong Private Dental Association (广东民营口腔协会)
+- **Certified Lecturer & External Researcher**, Cherry Studio
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- **China Medical University (中国医科大学)**, Stomatology (口腔系)
