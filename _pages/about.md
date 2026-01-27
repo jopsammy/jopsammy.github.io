@@ -13,9 +13,9 @@ redirect_from:
 <div style="font-family: sans-serif; line-height: 1.8;">
 
 <p style="margin-bottom: 20px;">
-<strong>Founder of Fuxu Technology</strong>. <strong>Independent Researcher</strong>. Focusing on <strong>Intelligence Dynamics</strong> and <strong>LLM Applications</strong>.
+Founder of Fuxu Technology. Independent Researcher, Product & Project Manager.
 <br>
-<span style="color: #666; font-size: 0.95em;">复旭科技创始人。独立研究者。专注<strong>智能动力学</strong>与<strong>大模型应用</strong>。</span>
+<span style="color: #666; font-size: 0.95em;">复旭科技创始人。独立研究者，产品与项目经理。</span>
 </p>
 
 <p style="margin-bottom: 20px;">
