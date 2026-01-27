@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Sammy Zeng | 曾庆明"
-description              : "Academic homepage of Sammy Zeng. Independent Researcher & Founder exploring Intelligence Dynamics, AI Safety, and Interdisciplinary Science."
+description              : "Independent Researcher & Founder. | 独立研究者 & 创始人。"
 repository               : "jopsammy/jopsammy.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0007-4382-0040"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

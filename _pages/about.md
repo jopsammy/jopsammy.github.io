@@ -13,9 +13,9 @@ redirect_from:
 <div style="font-family: sans-serif; line-height: 1.8;">
 
 <p style="margin-bottom: 20px;">
-<strong>Independent Researcher</strong> and <strong>Founder of Fuxu Technology</strong>. Research interests lie in <strong>Intelligence Dynamics</strong> and <strong>AI Safety</strong>, with a focus on Large Language Models (LLM) applications.
+<strong>Founder of Fuxu Technology</strong>. <strong>Independent Researcher</strong>, <strong>Product & Project Manager</strong>. Focusing on <strong>Intelligence Dynamics</strong> and <strong>LLM Applications</strong>.
 <br>
-<span style="color: #666; font-size: 0.95em;">独立研究者，复旭科技创始人。主要关注<strong>智能动力学</strong>与<strong>AI安全</strong>，特别是大语言模型（LLM）的应用。</span>
+<span style="color: #666; font-size: 0.95em;">复旭科技创始人。独立研究者，产品与项目经理。专注<strong>智能动力学</strong>与<strong>大模型应用</strong>。</span>
 </p>
 
 <p style="margin-bottom: 20px;">
