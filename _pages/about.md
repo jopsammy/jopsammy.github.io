@@ -48,7 +48,7 @@ Originally trained in stomatology and biomedical sciences, with experience in bi
 [**Paper**](https://doi.org/10.5281/zenodo.18377266)
 - A systematic analysis of GPQA and HLE benchmarks, finding verifiability inconsistencies in evaluation.
 - 对 GPQA 和 HLE 基准进行系统化分析，发现评估可验证性存在不一致。
-- [Selected Cases and Reproducible Raw Research Repository](https://github.com/jopsammy/audit_gpqa_hle_git)
+- [Curated Case and Reproducible Raw Research Repository](https://github.com/jopsammy/audit_gpqa_hle_git)
 - [精选案例与可复现原始研究仓](https://github.com/jopsammy/audit_gpqa_hle_git)
 </div>
 </div>
