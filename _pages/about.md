@@ -13,7 +13,7 @@ redirect_from:
 <div style="font-family: sans-serif; line-height: 1.8;">
 
 <p style="margin-bottom: 20px;">
-Founder of Fuxu Technology. Independent Researcher, Product & Project Manager.
+Founder of Fuxu Technology. Independent Researcher, Product & Project Manager. 
 <br>
 <span style="color: #666; font-size: 0.95em;">复旭科技创始人。独立研究者，产品与项目经理。</span>
 </p>
@@ -38,7 +38,7 @@ Originally trained in stomatology and biomedical sciences, with experience in bi
 
 # 📝 Publications | 发表论文
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Policy Entropy as Order Parameter: Landau Theory Migration for Intelligence Dynamics Framework](https://doi.org/10.5281/zenodo.16484805)
@@ -46,12 +46,14 @@ Originally trained in stomatology and biomedical sciences, with experience in bi
 **Sammy Zeng**
 
 [**Paper**](https://doi.org/10.5281/zenodo.16484805)
-- *Proposing Policy Entropy as an order parameter for Intelligence Dynamics, inspired by Landau Theory.*
-- *受朗道理论启发，提出将策略熵作为智能动力学的序参量。*
+- Proposing Policy Entropy as an order parameter for Intelligence Dynamics, inspired by Landau Theory.
+- 受朗道理论启发，提出将策略熵作为智能动力学的序参量。
+- Although this study is theoretically driven, the empirical formulas serving as the foundation for its deductions have not been widely validated, thus exhibiting significant limitations.
+- 尽管该研究属于理论先行，但推演基石的经验公式未被广泛验证，具有较大的局限性。
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Humanity's Last Hallucination : A Forensic Audit of the Scientific Insolvency in GPQA and HLE](https://doi.org/10.5281/zenodo.18377266)
@@ -59,8 +61,8 @@ Originally trained in stomatology and biomedical sciences, with experience in bi
 **Sammy Zeng**
 
 [**Paper**](https://doi.org/10.5281/zenodo.18377266)
-- *A forensic audit on GPQA and HLE benchmarks, challenging current evaluation standards.*
-- *对 GPQA 和 HLE 基准的法医式审计，挑战当前的评估标准。*
+- A forensic audit on GPQA and HLE benchmarks, challenging current evaluation standards.
+- 对 GPQA 和 HLE 基准的法医式审计，挑战当前的评估标准。
 </div>
 </div>
 
@@ -79,13 +81,13 @@ Holding 4 invention patents in China.
 
 # 🎖 Honors & Certifications | 荣誉与认证
 
-*   **Lifetime Member | 终身会员**, Chinese Society of Biotechnology (中国生物工程学会)
-*   **NPDP** (Certified New Product Development Professional) | 国际产品经理认证, PMI
-*   **PMP** (Project Management Professional) | 国际项目经理认证, PMI
-*   **Executive Director | 常务理事**, Guangdong Private Dental Association (广东民营口腔协会)
-*   **Certified Lecturer & External Researcher | 认证讲师 & 外部研究员**, Cherry Studio
+*   Lifetime Member | 终身会员, Chinese Society of Biotechnology (中国生物工程学会)
+*   NPDP (Certified New Product Development Professional) | 国际产品经理认证, PMI
+*   PMP (Project Management Professional) | 国际项目经理认证, PMI
+*   Executive Director | 常务理事, Guangdong Private Dental Association (广东民营口腔协会)
+*   Certified Lecturer & External Researcher | 认证讲师 & 外部研究员, Cherry Studio
 
 # 📖 Educations | 教育背景
 
-*   **China Medical University | 中国医科大学**
+*   China Medical University | 中国医科大学
     *   Stomatology (口腔医学)
