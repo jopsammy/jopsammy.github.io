@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "Independent Researcher & Founder of Fuxu Technology"
+excerpt: "Founder of Fuxu Tech. Independent Researcher. Life Sciences & AI."
 author_profile: true
 redirect_from: 
   - /about/
