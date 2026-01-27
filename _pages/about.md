@@ -36,7 +36,7 @@ Originally trained in stomatology and biomedical sciences, with experience in bi
   </ul>
 </div>
 
-# 📝 Publications | 发表论文
+# 📝 Publications | 论文
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='images/Quadrant_Distribution_GPQA_vs_HLE_wBaseline.png' alt="Quadrant distribution (GPQA vs HLE)" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -46,8 +46,8 @@ Originally trained in stomatology and biomedical sciences, with experience in bi
 **Sammy Zeng**
 
 [**Paper**](https://doi.org/10.5281/zenodo.18377266)
-- A forensic audit on GPQA and HLE benchmarks, challenging current evaluation standards.
-- 对 GPQA 和 HLE 基准的法医式审计，挑战当前的评估标准。
+- A systematic analysis of GPQA and HLE benchmarks, finding verifiability inconsistencies in evaluation.
+- 对 GPQA 和 HLE 基准进行系统化分析，发现评估可验证性存在不一致。
 </div>
 </div>
 
@@ -79,15 +79,19 @@ Holding 4 invention patents in China.
 *   **ZL201710771249.X**
 *   **ZL201710770237.X**
 
-# 🎖 Honors & Certifications | 荣誉与认证
+<span class='anchor' id='-honors-and-awards'></span>
 
-*   Lifetime Member | 终身会员, Chinese Society of Biotechnology (中国生物工程学会)
-*   NPDP (Certified New Product Development Professional) | 国际产品经理认证, PMI
-*   PMP (Project Management Professional) | 国际项目经理认证, PMI
-*   Executive Director | 常务理事, Guangdong Private Dental Association (广东民营口腔协会)
-*   Certified Lecturer & External Researcher | 认证讲师 & 外部研究员, Cherry Studio
+# 🎖 Honors & Certifications · 荣誉与认证
 
-# 📖 Educations | 教育背景
+*   Lifetime Member — 终身会员, Chinese Society of Biotechnology (中国生物工程学会)
+*   NPDP (Certified New Product Development Professional) — 国际产品经理认证, PMI
+*   PMP (Project Management Professional) — 国际项目经理认证, PMI
+*   Executive Director — 常务理事, Guangdong Private Dental Association (广东民营口腔协会)
+*   Certified Lecturer & External Researcher — 认证讲师 & 外部研究员, Cherry Studio
 
-*   China Medical University | 中国医科大学
+<span class='anchor' id='-educations'></span>
+
+# 📖 Educations · 教育背景
+
+*   China Medical University — 中国医科大学
     *   Stomatology (口腔医学)
