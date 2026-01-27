@@ -38,7 +38,20 @@ Originally trained in stomatology and biomedical sciences, with experience in bi
 
 # 📝 Publications | 发表论文
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='images/Quadrant_Distribution_GPQA_vs_HLE_wBaseline.png' alt="Quadrant distribution (GPQA vs HLE)" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Humanity's Last Hallucination : A Forensic Audit of the Scientific Insolvency in GPQA and HLE](https://doi.org/10.5281/zenodo.18377266)
+
+**Sammy Zeng**
+
+[**Paper**](https://doi.org/10.5281/zenodo.18377266)
+- A forensic audit on GPQA and HLE benchmarks, challenging current evaluation standards.
+- 对 GPQA 和 HLE 基准的法医式审计，挑战当前的评估标准。
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='images/lilundaotu-e.png' alt="Intelligence Dynamics diagram" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Policy Entropy as Order Parameter: Landau Theory Migration for Intelligence Dynamics Framework](https://doi.org/10.5281/zenodo.16484805)
@@ -50,19 +63,6 @@ Originally trained in stomatology and biomedical sciences, with experience in bi
 - 受朗道理论启发，提出将策略熵作为智能动力学的序参量。
 - Although this study is theoretically driven, the empirical formulas serving as the foundation for its deductions have not been widely validated, thus exhibiting significant limitations.
 - 尽管该研究属于理论先行，但推演基石的经验公式未被广泛验证，具有较大的局限性。
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Humanity's Last Hallucination : A Forensic Audit of the Scientific Insolvency in GPQA and HLE](https://doi.org/10.5281/zenodo.18377266)
-
-**Sammy Zeng**
-
-[**Paper**](https://doi.org/10.5281/zenodo.18377266)
-- A forensic audit on GPQA and HLE benchmarks, challenging current evaluation standards.
-- 对 GPQA 和 HLE 基准的法医式审计，挑战当前的评估标准。
 </div>
 </div>
 
