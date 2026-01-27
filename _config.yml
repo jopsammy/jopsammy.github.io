@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Sammy Zeng | 曾庆明"
-description              : "Founder of Fuxu Tech & Independent Researcher. Exploring the intersection of Life Sciences, Complex Systems, and LLM Applications. | 复旭科技创始人，独立研究者。探索生命科学、复杂系统与大模型应用的交叉领域。"
+title                    : "Sammy Zeng<br>曾庆明"
+description              : "Founder of Fuxu Tech & Independent Researcher. Exploring the intersection of Life Sciences, Complex Systems, and LLM Applications.<br>复旭科技创始人，独立研究者。探索生命科学、复杂系统与大模型应用的交叉领域。"
 repository               : "jopsammy/jopsammy.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Sammy Zeng | 曾庆明"
+  name             : "Sammy Zeng<br>曾庆明"
   avatar           : "images/profile.jpg"
-  bio              : "Independent Researcher<br>Founder of Fuxu Tech<br>独立研究者 | 创始人"
+  bio              : "Independent Researcher<br>Founder of Fuxu Tech<br>独立研究者<br>创始人"
   location         : "China | 中国"
   employer         : "Fuxu Technology"
   pubmed           : 
