@@ -38,33 +38,29 @@ Originally trained in stomatology and biomedical sciences, with experience in bi
 
 # 📝 Publications | 论文
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='images/Quadrant_Distribution_GPQA_vs_HLE_wBaseline.png' alt="Quadrant distribution (GPQA vs HLE)" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='images/sixconditions.png' alt="Six Conditions diagram" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Humanity's Last Hallucination : A Forensic Audit of the Scientific Insolvency in GPQA and HLE](https://doi.org/10.5281/zenodo.18377266)
+[Long-Horizon Practice: Structural Lower Bounds Beyond Single-Step Capability](https://doi.org/10.5281/zenodo.20470866)
 
 **Sammy Zeng**
 
-[**Paper**](https://doi.org/10.5281/zenodo.18377266)
-- A systematic analysis of GPQA and HLE benchmarks, finding verifiability inconsistencies in evaluation.
-- 对 GPQA 和 HLE 基准进行系统化分析，发现评估可验证性存在不一致。
-- [Curated Case and Reproducible Raw Research Repository](https://github.com/jopsammy/audit_gpqa_hle_git)
-- [精选案例与可复现原始研究仓](https://github.com/jopsammy/audit_gpqa_hle_git)
+[**Paper**](https://doi.org/10.5281/zenodo.20470866)
+- Redefining "long-horizon" by the closure of the information set, identifying four sources of non-closure and three-layer structural lower bounds.
+- 以信息集封闭性重新定义"长程"：识别四类非封闭来源（认知缺口、媒介强制、决策分叉、外部漂移）与三层结构下限，论证强单次能力不自动蕴含跨检查点持续推进力。
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='images/lilundaotu-e.png' alt="Intelligence Dynamics diagram" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='images/ACParadigm.png' alt="AC Paradigm diagram" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Policy Entropy as Order Parameter: Landau Theory Migration for Intelligence Dynamics Framework](https://doi.org/10.5281/zenodo.16484805)
+[Anchors and Contracts for Long-Horizon Practice: AC Paradigm V6 Technical Report (TRAE-Tuned)](https://doi.org/10.5281/zenodo.20471461)
 
 **Sammy Zeng**
 
-[**Paper**](https://doi.org/10.5281/zenodo.16484805)
-- Proposing Policy Entropy as an order parameter for Intelligence Dynamics, inspired by Landau Theory.
-- 受朗道理论启发，提出将策略熵作为智能动力学的序参量。
-- Although this study is theoretically driven, the empirical formulas serving as the foundation for its deductions have not been widely validated, thus exhibiting significant limitations.
-- 尽管该研究属于理论先行，但推演基石的经验公式未被广泛验证，具有较大的局限性。
+[**Paper**](https://doi.org/10.5281/zenodo.20471461)
+- Establishes the AC Paradigm as the engineering middle layer for long-horizon practice, featuring GN-004 independent review ("Veil of Ignorance"), anchor system, and subagent orchestration with optimal performance projection (P_opt).
+- 确立AC范式为长程实践的工程中间层：GN-004独立审查层（无知之幕）、七类外置锚点体系、Subagent调度与最优性能投影（P_opt），将13条理论条件焊死为可执行工程结构。
 </div>
 </div>
 
