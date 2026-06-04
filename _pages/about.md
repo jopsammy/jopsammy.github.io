@@ -38,6 +38,40 @@ Originally trained in stomatology and biomedical sciences, with experience in bi
 
 # 📝 Publications | 论文
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='images/sixconditions.png' alt="Six structural conditions diagram" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Long-Horizon Practice: Structural Lower Bounds Beyond Single-Step Capability](https://doi.org/10.5281/zenodo.20470866)
+
+**Sammy Zeng**
+
+[**Paper**](https://doi.org/10.5281/zenodo.20470866)
+- Redefines "long-horizon" by information-set closure; proposes a four-source non-closure framework and three-layer structural lower bounds for continuous execution.
+- 以信息集封闭性重定义长程，提出四来源非封闭框架与三层结构下限。
+- Serves as the theoretical matrix for the AC Paradigm.
+- 作为 AC 范式的理论母体。
+- [Raw Research Repository](https://github.com/jopsammy/task1_raw_repo)
+- [原始研究仓](https://github.com/jopsammy/task1_raw_repo)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='images/ACParadigm.png' alt="AC Paradigm architecture diagram" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Anchors and Contracts for Long-Horizon Practice: AC Paradigm V6 Technical Report (TRAE-Tuned)](https://doi.org/10.5281/zenodo.20471461)
+
+**Sammy Zeng**
+
+[**Paper**](https://doi.org/10.5281/zenodo.20471461)
+- Establishes the AC Paradigm as the engineering middle layer for long-horizon practice, hardening 13 theoretical conditions into executable structures.
+- 将 AC 范式确立为长程实践的工程中间层，将 13 条理论条件焊死为可执行结构。
+- Introduces GN-004 independent review ("Veil of Ignorance"), seven-anchor state continuity, and subagent orchestration; validated by a 102-hour extreme case.
+- 引入 GN-004 无知之幕审查、七锚点状态连续性与 Subagent 调度；经 102 小时极端解题验证。
+- [Raw Research Repository](https://github.com/jopsammy/task1_raw_repo) | [AC Paradigm Components](https://github.com/jopsammy/AC-skill-deploy-ac-v6-components)
+- [原始研究仓](https://github.com/jopsammy/task1_raw_repo) | [AC范式组件](https://github.com/jopsammy/AC-skill-deploy-ac-v6-components)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='images/Quadrant_Distribution_GPQA_vs_HLE_wBaseline.png' alt="Quadrant distribution (GPQA vs HLE)" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -65,40 +99,6 @@ Originally trained in stomatology and biomedical sciences, with experience in bi
 - 受朗道理论启发，提出将策略熵作为智能动力学的序参量。
 - Although this study is theoretically driven, the empirical formulas serving as the foundation for its deductions have not been widely validated, thus exhibiting significant limitations.
 - 尽管该研究属于理论先行，但推演基石的经验公式未被广泛验证，具有较大的局限性。
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='images/sixconditions.png' alt="Six structural conditions diagram" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Long-Horizon Practice: Structural Lower Bounds Beyond Single-Step Capability](https://doi.org/10.5281/zenodo.20470866)
-
-**Sammy Zeng**
-
-[**Paper**](https://doi.org/10.5281/zenodo.20470866)
-- Redefines "long-horizon" by closure of the current information set rather than duration or workload, establishing a rigorous criterion to distinguish genuine long-horizon practice from mere sequential atomization.
-- 以信息集封闭性重新定义"长程"，建立区分真长程与伪长程的严格判据。
-- Proposes a four-source framework of non-closure — cognitive gaps, medium constraints, decision forks, and external drift — and derives three-layer structural lower bounds as necessary conditions for continuous execution.
-- 提出关键输入的四来源框架（认知缺口、媒介强制、决策分叉、外部漂移），并导出三层结构下限，论证其为持续推进的必要条件。
-- Serves as the theoretical matrix for the AC Paradigm, addressing why long-horizon execution breaks and what minimal structure is required to sustain it.
-- 作为 AC 范式的理论母体，回答长程为何会断裂以及最低需要何种结构才能不中断。
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='images/ACParadigm.png' alt="AC Paradigm architecture diagram" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Anchors and Contracts for Long-Horizon Practice: AC Paradigm V6 Technical Report (TRAE-Tuned)](https://doi.org/10.5281/zenodo.20471461)
-
-**Sammy Zeng**
-
-[**Paper**](https://doi.org/10.5281/zenodo.20471461)
-- Establishes the AC (Anchors and Contracts) Paradigm as the engineering middle layer for long-horizon practice in Agent IDEs, hardening 13 theoretical conditions into executable structures.
-- 将 AC 范式确立为 Agent IDE 中面向长程实践的工程中间层，将 13 条理论条件焊死为可执行工程结构。
-- Introduces GN-004 as an independent review layer operating behind a "Veil of Ignorance," the seven-anchor system for cross-checkpoint state continuity, and subagent orchestration as a structural response to medium constraints.
-- 引入 GN-004 独立审查层（无知之幕）、七类锚点的跨检查点状态连续性体系，以及 Subagent 调度作为对媒介强制的结构性回应。
-- Validated through a 102-hour extreme problem-solving existence proof; explicitly identifies infrastructure noise as systemic ecological wear that must be counteracted by engineering.
-- 以 102 小时极端解题案例作为存在性证明，将基建噪声确认为必须用工程对冲的系统性生态磨损。
 </div>
 </div>
 
