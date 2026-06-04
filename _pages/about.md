@@ -43,7 +43,7 @@ Originally trained in stomatology and biomedical sciences, with experience in bi
 
 [Anchors and Contracts for Long-Horizon Practice: AC Paradigm V6 Technical Report (TRAE-Tuned)](https://doi.org/10.5281/zenodo.20471461)
 
-**Sammy Zeng**
+**Sammy Zeng**, **Dao Wei**
 
 [**Paper**](https://doi.org/10.5281/zenodo.20471461)
 - Establishes the AC Paradigm as the engineering middle layer for long-horizon practice, hardening 13 theoretical conditions into executable structures.
@@ -60,7 +60,7 @@ Originally trained in stomatology and biomedical sciences, with experience in bi
 
 [Long-Horizon Practice: Structural Lower Bounds Beyond Single-Step Capability](https://doi.org/10.5281/zenodo.20470866)
 
-**Sammy Zeng**
+**Sammy Zeng**, **Dao Wei**
 
 [**Paper**](https://doi.org/10.5281/zenodo.20470866)
 - Redefines "long-horizon" by information-set closure; proposes a four-source non-closure framework and three-layer structural lower bounds for continuous execution.
