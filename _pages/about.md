@@ -38,7 +38,37 @@ Originally trained in stomatology and biomedical sciences, with experience in bi
 
 # 📝 Publications | 论文
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='images/sixconditions.png' alt="Six Conditions diagram" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='images/Quadrant_Distribution_GPQA_vs_HLE_wBaseline.png' alt="Quadrant distribution (GPQA vs HLE)" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Humanity's Last Hallucination : A Forensic Audit of the Scientific Insolvency in GPQA and HLE](https://doi.org/10.5281/zenodo.18377266)
+
+**Sammy Zeng**
+
+[**Paper**](https://doi.org/10.5281/zenodo.18377266)
+- A systematic analysis of GPQA and HLE benchmarks, finding verifiability inconsistencies in evaluation.
+- 对 GPQA 和 HLE 基准进行系统化分析，发现评估可验证性存在不一致。
+- [Curated Case and Reproducible Raw Research Repository](https://github.com/jopsammy/audit_gpqa_hle_git)
+- [精选案例与可复现原始研究仓](https://github.com/jopsammy/audit_gpqa_hle_git)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='images/lilundaotu-e.png' alt="Intelligence Dynamics diagram" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Policy Entropy as Order Parameter: Landau Theory Migration for Intelligence Dynamics Framework](https://doi.org/10.5281/zenodo.16484805)
+
+**Sammy Zeng**
+
+[**Paper**](https://doi.org/10.5281/zenodo.16484805)
+- Proposing Policy Entropy as an order parameter for Intelligence Dynamics, inspired by Landau Theory.
+- 受朗道理论启发，提出将策略熵作为智能动力学的序参量。
+- Although this study is theoretically driven, the empirical formulas serving as the foundation for its deductions have not been widely validated, thus exhibiting significant limitations.
+- 尽管该研究属于理论先行，但推演基石的经验公式未被广泛验证，具有较大的局限性。
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='images/sixconditions.png' alt="Six structural conditions diagram" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Long-Horizon Practice: Structural Lower Bounds Beyond Single-Step Capability](https://doi.org/10.5281/zenodo.20470866)
@@ -46,12 +76,16 @@ Originally trained in stomatology and biomedical sciences, with experience in bi
 **Sammy Zeng**
 
 [**Paper**](https://doi.org/10.5281/zenodo.20470866)
-- Redefining "long-horizon" by the closure of the information set, identifying four sources of non-closure and three-layer structural lower bounds.
-- 以信息集封闭性重新定义"长程"：识别四类非封闭来源（认知缺口、媒介强制、决策分叉、外部漂移）与三层结构下限，论证强单次能力不自动蕴含跨检查点持续推进力。
+- Redefines "long-horizon" by closure of the current information set rather than duration or workload, establishing a rigorous criterion to distinguish genuine long-horizon practice from mere sequential atomization.
+- 以信息集封闭性重新定义"长程"，建立区分真长程与伪长程的严格判据。
+- Proposes a four-source framework of non-closure — cognitive gaps, medium constraints, decision forks, and external drift — and derives three-layer structural lower bounds as necessary conditions for continuous execution.
+- 提出关键输入的四来源框架（认知缺口、媒介强制、决策分叉、外部漂移），并导出三层结构下限，论证其为持续推进的必要条件。
+- Serves as the theoretical matrix for the AC Paradigm, addressing why long-horizon execution breaks and what minimal structure is required to sustain it.
+- 作为 AC 范式的理论母体，回答长程为何会断裂以及最低需要何种结构才能不中断。
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='images/ACParadigm.png' alt="AC Paradigm diagram" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='images/ACParadigm.png' alt="AC Paradigm architecture diagram" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Anchors and Contracts for Long-Horizon Practice: AC Paradigm V6 Technical Report (TRAE-Tuned)](https://doi.org/10.5281/zenodo.20471461)
@@ -59,8 +93,12 @@ Originally trained in stomatology and biomedical sciences, with experience in bi
 **Sammy Zeng**
 
 [**Paper**](https://doi.org/10.5281/zenodo.20471461)
-- Establishes the AC Paradigm as the engineering middle layer for long-horizon practice, featuring GN-004 independent review ("Veil of Ignorance"), anchor system, and subagent orchestration with optimal performance projection (P_opt).
-- 确立AC范式为长程实践的工程中间层：GN-004独立审查层（无知之幕）、七类外置锚点体系、Subagent调度与最优性能投影（P_opt），将13条理论条件焊死为可执行工程结构。
+- Establishes the AC (Anchors and Contracts) Paradigm as the engineering middle layer for long-horizon practice in Agent IDEs, hardening 13 theoretical conditions into executable structures.
+- 将 AC 范式确立为 Agent IDE 中面向长程实践的工程中间层，将 13 条理论条件焊死为可执行工程结构。
+- Introduces GN-004 as an independent review layer operating behind a "Veil of Ignorance," the seven-anchor system for cross-checkpoint state continuity, and subagent orchestration as a structural response to medium constraints.
+- 引入 GN-004 独立审查层（无知之幕）、七类锚点的跨检查点状态连续性体系，以及 Subagent 调度作为对媒介强制的结构性回应。
+- Validated through a 102-hour extreme problem-solving existence proof; explicitly identifies infrastructure noise as systemic ecological wear that must be counteracted by engineering.
+- 以 102 小时极端解题案例作为存在性证明，将基建噪声确认为必须用工程对冲的系统性生态磨损。
 </div>
 </div>
 
