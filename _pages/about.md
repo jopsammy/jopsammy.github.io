@@ -64,11 +64,11 @@ Originally trained in stomatology and biomedical sciences, with experience in bi
 
 [**Paper**](https://doi.org/10.5281/zenodo.20471461)
 - Establishes the AC Paradigm as the engineering middle layer for long-horizon practice, hardening 13 theoretical conditions into executable structures.
-- 将 AC 范式确立为长程实践的工程中间层，将 13 条理论条件焊死为可执行结构。
+- 将 AC 范式确立为长程实践的工程中间层，将 13 条理论条件固化为可执行结构。
 - Introduces GN-004 independent review ("Veil of Ignorance"), seven-anchor state continuity, and subagent orchestration; validated by a 102-hour extreme case.
 - 引入 GN-004 无知之幕审查、七锚点状态连续性与 Subagent 调度；经 102 小时极端解题验证。
-- [Raw Research Repository](https://github.com/jopsammy/task1_raw_repo) | [AC Paradigm Components](https://github.com/jopsammy/AC-skill-deploy-ac-v6-components)
-- [原始研究仓](https://github.com/jopsammy/task1_raw_repo) | [AC范式组件](https://github.com/jopsammy/AC-skill-deploy-ac-v6-components)
+- [Raw Research Repository](https://github.com/jopsammy/task1_raw_repo) | [AC Paradigm Components (TRAE-Tuned)](https://github.com/jopsammy/AC-skill-deploy-ac-v6-components)
+- [原始研究仓](https://github.com/jopsammy/task1_raw_repo) | [AC范式组件 (TRAE特调)](https://github.com/jopsammy/AC-skill-deploy-ac-v6-components)
 </div>
 </div>
 
