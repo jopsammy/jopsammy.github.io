@@ -38,23 +38,6 @@ Originally trained in stomatology and biomedical sciences, with experience in bi
 
 # 📝 Publications | 论文
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='images/sixconditions.png' alt="Six structural conditions diagram" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Long-Horizon Practice: Structural Lower Bounds Beyond Single-Step Capability](https://doi.org/10.5281/zenodo.20470866)
-
-**Sammy Zeng**
-
-[**Paper**](https://doi.org/10.5281/zenodo.20470866)
-- Redefines "long-horizon" by information-set closure; proposes a four-source non-closure framework and three-layer structural lower bounds for continuous execution.
-- 以信息集封闭性重定义长程，提出四来源非封闭框架与三层结构下限。
-- Serves as the theoretical matrix for the AC Paradigm.
-- 作为 AC 范式的理论母体。
-- [Raw Research Repository](https://github.com/jopsammy/task1_raw_repo)
-- [原始研究仓](https://github.com/jopsammy/task1_raw_repo)
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='images/ACParadigm.png' alt="AC Paradigm architecture diagram" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -69,6 +52,23 @@ Originally trained in stomatology and biomedical sciences, with experience in bi
 - 引入 GN-004 无知之幕审查、七锚点状态连续性与 Subagent 调度；经 102 小时极端解题验证。
 - [Raw Research Repository](https://github.com/jopsammy/task1_raw_repo) | [AC Paradigm Components (TRAE-Tuned)](https://github.com/jopsammy/AC-skill-deploy-ac-v6-components)
 - [原始研究仓](https://github.com/jopsammy/task1_raw_repo) | [AC范式组件 (TRAE特调)](https://github.com/jopsammy/AC-skill-deploy-ac-v6-components)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='images/sixconditions.png' alt="Six structural conditions diagram" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Long-Horizon Practice: Structural Lower Bounds Beyond Single-Step Capability](https://doi.org/10.5281/zenodo.20470866)
+
+**Sammy Zeng**
+
+[**Paper**](https://doi.org/10.5281/zenodo.20470866)
+- Redefines "long-horizon" by information-set closure; proposes a four-source non-closure framework and three-layer structural lower bounds for continuous execution.
+- 以信息集封闭性重定义长程，提出四来源非封闭框架与三层结构下限。
+- Serves as the theoretical matrix for the AC Paradigm.
+- 作为 AC 范式的理论母体。
+- [Raw Research Repository](https://github.com/jopsammy/task1_raw_repo)
+- [原始研究仓](https://github.com/jopsammy/task1_raw_repo)
 </div>
 </div>
 
