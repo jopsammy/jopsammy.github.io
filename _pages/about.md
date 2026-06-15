@@ -38,6 +38,23 @@ Originally trained in stomatology and biomedical sciences, with experience in bi
 
 # 📝 Publications | 论文
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='images/tco_chart_en.png' alt="TCO analysis chart" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Space-Based AI Computing Feasibility Analysis: Physical Limits, Engineering Constraints, and Commercial Prospects](https://doi.org/10.5281/zenodo.20707711)
+
+**Sammy Zeng**
+
+[**Paper**](https://doi.org/10.5281/zenodo.20707711)
+- Physically feasible, engineeringly fragile, commercially scenario-dependent. Orbital AI data center TCO is 11.8× that of ground equivalent.
+- 物理可行、工程脆弱、商业以场景分层。轨道AI数据中心综合成本是地面同等算力的11.8倍。
+- Built a Four-Tier Evidence System (47 parameters) and 10-year TCO model (~$765M/MW); launch costs only 1.8% — PV procurement and orbital lifespan are the true bottlenecks.
+- 建立四档证据体系（47项参数）与10年TCO经济模型（约7.65亿美元/兆瓦）；发射成本仅占1.8%，真正瓶颈在光伏采购价与在轨寿命。
+- [Open-Source Repository](https://github.com/jopsammy/SpaceBasedAIComputingFeasibilityAnalysis)
+- [开源仓](https://github.com/jopsammy/SpaceBasedAIComputingFeasibilityAnalysis)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='images/ACParadigm.png' alt="AC Paradigm architecture diagram" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
